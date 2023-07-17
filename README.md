@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditi Bhatt</h1>
 <h3 align="center">A passionate full stack developer.</h3>
--  A self-taught full-stack developer, I am passionate about pushing the boundaries of what is possible. I find joy in tackling complex challenges head-on.
+-  A self-taught full-stack developer, from an early stage in my career, I have been captivated by the limitless possibilities that full-stack development offers. I have honed my skills across various technologies, including frontend languages such as HTML, CSS, and JavaScript, as well as backend frameworks like Node.js and databases such as MongoDB. I am motivated to contribute to that change through my skills as a full-stack developer.
 
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0%2APXf5ge7QCN9Ga_CL.gif">
 
@@ -9,6 +9,12 @@
 - 💬 Ask me about **Three.js, c, c++**
 
 - 📫 How to reach me **aditib9111@gmail.com**
+
+<h3 align="left">Example of Work</h3>
+
+<img width="250" src="https://github.com/Abhatt18-ui/Abhatt18-ui/assets/128682313/7170a348-3195-403b-b293-2df7b734b413">
+
+
 
 
 <h3 align="left">Connect with me:</h3>
