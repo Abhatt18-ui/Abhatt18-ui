@@ -13,10 +13,10 @@
 
 <h3 align="left">Example of Work</h3>
 
-<img width="250" src="https://github.com/Abhatt18-ui/Abhatt18-ui/assets/128682313/7170a348-3195-403b-b293-2df7b734b413">
-
-
-
+<img width="250" src="![phone1](https://github.com/Abhatt18-ui/Abhatt18-ui/assets/128682313/c8499307-8f1f-482f-8421-f5cde524f9f8)">
+<img width="250" src="![phone2](https://github.com/Abhatt18-ui/Abhatt18-ui/assets/128682313/156cca3d-d7af-4a1a-a5ca-bee066f2cfa8)">
+<img width="250" src="![195](https://github.com/Abhatt18-ui/Abhatt18-ui/assets/128682313/f8d7a7a0-bcb6-44f9-84a4-dae2a29aac10)">
+<img width="250" src="![web2](https://github.com/Abhatt18-ui/Abhatt18-ui/assets/128682313/b97107dc-b74c-429d-ae6f-2b543430509b)">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
