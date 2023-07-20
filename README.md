@@ -9,7 +9,9 @@
 
 - 💬 Ask me about **Three.js, c, c++**
 
-- 📫 How to reach me **aditib9111@gmail.com**
+- 📫 How to reach me **aditib9111@gmail.com*
+  
+- 📃 My resume **https://drive.google.com/drive/folders/1pZZvczM_CatS4py0otGUJpZKdjdfyHvK?usp=sharing**
 
 <h3 align="left">Example of Work</h3>
 
